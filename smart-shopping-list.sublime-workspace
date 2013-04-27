@@ -1,0 +1,602 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fil",
+				"filterDest"
+			],
+			[
+				"filt",
+				"filterSrc"
+			],
+			[
+				"filter",
+				"filterVia"
+			],
+			[
+				"disc",
+				"discStack"
+			],
+			[
+				"tow",
+				"towerStack"
+			],
+			[
+				"cur",
+				"curEnd"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"combi",
+				"combinations"
+			],
+			[
+				"re",
+				"remaining_string"
+			],
+			[
+				"print",
+				"printInOrder"
+			],
+			[
+				"prin",
+				"printInOrder"
+			],
+			[
+				"dep",
+				"depthRight"
+			],
+			[
+				"depth",
+				"depthLeft"
+			],
+			[
+				"tre",
+				"TreeNode"
+			],
+			[
+				"Tree",
+				"TreeNode"
+			],
+			[
+				"Tr",
+				"TreeNode"
+			],
+			[
+				"_",
+				"_power_set"
+			],
+			[
+				"po",
+				"power_set"
+			],
+			[
+				"power",
+				"_power_set"
+			],
+			[
+				"length",
+				"length_of_list"
+			],
+			[
+				"str",
+				"stripped_string"
+			],
+			[
+				"permu",
+				"permutations"
+			],
+			[
+				"list",
+				"list_of_strings"
+			],
+			[
+				"data",
+				"Data"
+			],
+			[
+				"has",
+				"hash"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-transform"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "rails_commands.txt",
+			"settings":
+			{
+				"buffer_size": 282,
+				"line_ending": "Unix",
+				"name": "rails new . -d postgres"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kataria/Workspace/Python/HanoiMoves/hanoi_moves.py",
+		"/Users/kataria/Workspace/cpp/Diff_Google.txt",
+		"/Users/kataria/Workspace/cpp/temp",
+		"/Users/kataria/Workspace/PerfectpetmatchRails/app/views/members/adoption_certificate_pdf.html.haml",
+		"/Users/kataria/Workspace/PerfectpetmatchRails/app/controllers/members_controller.rb",
+		"/Users/kataria/Workspace/PerfectpetmatchRails/Gemfile",
+		"/Users/kataria/Workspace/PPM-Archive/BreedsSortedDuplicates.txt",
+		"/Users/kataria/Workspace/cpp/reverse_Word_Pos_In_String.cpp",
+		"/Users/kataria/Workspace/cpp/maximum_contiguous_sum.cpp",
+		"/Users/kataria/Workspace/DuelOff/Assets/Scripts/GamePlay/Player/PlayerController.cs",
+		"/Users/kataria/Workspace/cpp/findSumInArray.cpp",
+		"/Users/kataria/Workspace/cpp/solution.txt",
+		"/Users/kataria/Workspace/Oracle/FeedTableViewController.h",
+		"/Users/kataria/Workspace/Oracle/FeedTableViewController.m",
+		"/Users/kataria/Workspace/Oracle/LoginViewController.h",
+		"/Users/kataria/Workspace/Oracle/LoginViewController.m",
+		"/Users/kataria/Workspace/Oracle/ProfileViewController.h",
+		"/Users/kataria/Workspace/Oracle/ProfileViewController.m",
+		"/Users/kataria/Workspace/Oracle/AppDelegate.h",
+		"/Users/kataria/Workspace/Oracle/AppDelegate.m",
+		"/Users/kataria/Workspace/Python/combine.py",
+		"/Users/kataria/Workspace/Python/permute.py",
+		"/Users/kataria/Workspace/cpp/dateTimeZune.cpp",
+		"/Users/kataria/Workspace/cpp/scatterGather.cpp",
+		"/Users/kataria/Workspace/cpp/treebasic.cpp",
+		"/Users/kataria/Workspace/Python/powerset.py",
+		"/Users/kataria/Workspace/Python/permute.cpp",
+		"/Users/kataria/Workspace/Python/permute.c",
+		"/Users/kataria/Workspace/Python/gevent-playheaven.py",
+		"/Users/kataria/Documents/wsgibottleserver.py",
+		"/Users/kataria/Workspace/Slotorama _SVN_Export/PackageApp.bat",
+		"/Users/kataria/Workspace/Slotorama _SVN_Export/AIR_iOS_readme.txt",
+		"/Users/kataria/Workspace/Slotorama _SVN_Export/src/com/irl/_modules/slotmachine/view/components/FBConnectContent.as",
+		"/Users/kataria/Workspace/Slotorama _SVN_Export/src/com/irl/_modules/slotmachine/view/components/BodyAuto.as",
+		"/Users/kataria/Workspace/Slotorama _SVN_Export/src/com/irl/_modules/slotmachine/view/components/BodyPirate.as",
+		"/Users/kataria/Workspace/Slotorama _SVN_Export/application.xml",
+		"/Users/kataria/Workspace/Slotorama _SVN_Export/src/com/podd/system/ApplicationSetting.as",
+		"/Users/kataria/Workspace/railsInstallerDemo/app/views/users/show.html.erb",
+		"/Users/kataria/Workspace/railsInstallerDemo/app/models/user.rb",
+		"/Users/kataria/Workspace/railsInstallerDemo/app/views/users/index.html.erb",
+		"/Users/kataria/Workspace/railsInstallerDemo/db/migrate/20121202124253_create_users.rb",
+		"/Users/kataria/Workspace/railsInstallerDemo/db/migrate/20121207164901_add_profile_pic_full_url_to_users.rb",
+		"/Users/kataria/Workspace/railsInstallerDemo/app/views/users/index.mobile.erb",
+		"/Users/kataria/Workspace/railsInstallerDemo/app/controllers/application_controller.rb",
+		"/Users/kataria/Workspace/railsInstallerDemo/app/views/layouts/application.mobile.erb.html",
+		"/Users/kataria/Workspace/railsInstallerDemo/app/assets/javascripts/mobile.js",
+		"/Users/kataria/Workspace/railsInstallerDemo/app/views/layouts/application.html.erb",
+		"/Users/kataria/Workspace/railsInstallerDemo/public/src/themes/css/jqtouch.css",
+		"/Users/kataria/Workspace/railsInstallerDemo/public/src/themes/scss/reference/apple.old.css",
+		"/Users/kataria/Workspace/railsInstallerDemo/public/src/themes/scss/.sass-cache/431703159a18af6798ff782dff48141d073edefb/apple.scssc",
+		"/Users/kataria/Workspace/railsInstallerDemo/config/initializers/mime_types.rb",
+		"/Users/kataria/Workspace/railsInstallerDemo/test/test_helper.rb",
+		"/Users/kataria/Workspace/railsInstallerDemo/app/assets/javascripts/facebook.js.coffee.erb",
+		"/Users/kataria/Workspace/railsInstallerDemo/config/initializers/omniauth.rb",
+		"/Users/kataria/Workspace/railsInstallerDemo/config/facebook.yml",
+		"/Users/kataria/Workspace/railsInstallerDemo/app/assets/javascripts/application.js",
+		"/Users/kataria/Workspace/railsInstallerDemo/app/views/welcome/index.html.erb",
+		"/Users/kataria/Workspace/railsInstallerDemo/app/assets/stylesheets/application.css",
+		"/Users/kataria/Workspace/railsInstallerDemo/app/controllers/users_controller.rb",
+		"/Users/kataria/Workspace/railsInstallerDemo/app/controllers/sessions_controller.rb",
+		"/Users/kataria/Workspace/user.rb",
+		"/Users/kataria/Workspace/railsInstallerDemo/config/application.rb",
+		"/Users/kataria/Workspace/railsInstallerDemo/app/models/fbuser.rb",
+		"/Users/kataria/Workspace/railsInstallerDemo/test/unit/fbuser_test.rb",
+		"/Users/kataria/Workspace/railsInstallerDemo/test/fixtures/users.yml",
+		"/Users/kataria/Workspace/railsInstallerDemo/config/database.yml",
+		"/Users/kataria/Workspace/railsInstallerDemo/config/initializers/facebook.rb",
+		"/Users/kataria/Workspace/railsInstallerDemo/Gemfile",
+		"/Users/kataria/Workspace/railsInstallerDemo/config/routes.rb",
+		"/Users/kataria/Workspace/railsInstallerDemo/config/environment.rb",
+		"/Users/kataria/Workspace/railsInstallerDemo/config.ru"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Secondary",
+			"1",
+			"environ",
+			"sys",
+			"con",
+			"ver ",
+			"ver",
+			"fib_array",
+			"Push",
+			"PLATFORM",
+			"platfor",
+			"Child",
+			"addChild",
+			"BgBitmapClass",
+			"_bGBimap",
+			"_bGBitmap",
+			"bGBitmap",
+			"csrf",
+			"authenticity",
+			"CSRF",
+			"CRSF",
+			"CSRF",
+			"@",
+			"user.gender",
+			"likes",
+			"mobile",
+			"media",
+			":media",
+			"ENV",
+			"FACEBOOK",
+			"current_user",
+			"fbuser",
+			"Fbuser",
+			"current_user",
+			"user.location",
+			"root :to"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"connection",
+			"fibonacci",
+			"fib_cache",
+			"fibonacci_cache",
+			"User"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "rails_commands.txt",
+					"settings":
+					{
+						"buffer_size": 282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"auto_name": "rails new . -d postgres",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"adoptionpdf",
+				"PerfectpetmatchRails/app/views/members/adoption_certificate_pdf.html.haml"
+			],
+			[
+				"gemfile",
+				"PerfectpetmatchRails/Gemfile"
+			],
+			[
+				"",
+				"/Users/kataria/Workspace/PerfectpetmatchRails/app/controllers/members_controller.rb"
+			],
+			[
+				"applica",
+				"application.xml"
+			],
+			[
+				"applie",
+				"src/com/podd/system/ApplicationSetting.as"
+			],
+			[
+				"ios",
+				"AIR_iOS_readme.txt"
+			],
+			[
+				"connect",
+				"src/com/irl/_modules/slotmachine/view/components/FBConnectContent.as"
+			],
+			[
+				"body",
+				"src/com/irl/_modules/slotmachine/view/components/BodyAuto.as"
+			],
+			[
+				"pirates",
+				"src/com/irl/_modules/slotmachine/view/components/BodyPirate.as"
+			],
+			[
+				"aplicat",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"model",
+				"app/models/user.rb"
+			],
+			[
+				"show",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"userscon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"shower",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"uer",
+				"app/models/user.rb"
+			],
+			[
+				"createuser",
+				"db/migrate/20121202124253_create_users.rb"
+			],
+			[
+				"profilepic",
+				"db/migrate/20121207164901_add_profile_pic_full_url_to_users.rb"
+			],
+			[
+				"ine",
+				"app/views/users/index.html.erb"
+			],
+			[
+				"index",
+				"app/views/users/index.mobile.erb"
+			],
+			[
+				"apple",
+				"public/src/themes/scss/reference/apple.old.css"
+			],
+			[
+				"jqtouchcss",
+				"public/src/themes/css/jqtouch.css"
+			],
+			[
+				"mime",
+				"config/initializers/mime_types.rb"
+			],
+			[
+				"applicon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"applih",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"yml",
+				"config/facebook.yml"
+			],
+			[
+				"faceb",
+				"app/assets/javascripts/facebook.js.coffee.erb"
+			],
+			[
+				"appli",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"css",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"inde",
+				"app/views/welcome/index.html.erb"
+			],
+			[
+				"indexerb",
+				"app/views/users/index.html.erb"
+			],
+			[
+				"applierb",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"controlleruser",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"viewusers",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"ses",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"apperb",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"sess",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"fbuser",
+				"app/models/fbuser.rb"
+			],
+			[
+				"test/fixtures/users.yml",
+				"test/fixtures/users.yml"
+			],
+			[
+				"app/models/user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"omni",
+				"config/initializers/omniauth.rb"
+			],
+			[
+				"fa",
+				"config/facebook.yml"
+			],
+			[
+				"face",
+				"config/facebook.yml"
+			],
+			[
+				"on",
+				"config/initializers/omniauth.rb"
+			],
+			[
+				"coffee",
+				"app/assets/javascripts/facebook.js.coffee.erb"
+			],
+			[
+				"fb",
+				"app/models/fbuser.rb"
+			],
+			[
+				"facebook",
+				"config/facebook.yml"
+			],
+			[
+				"environ",
+				"config/environment.rb"
+			],
+			[
+				"applihtml",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"applicacontr",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"sessions",
+				"app/controllers/sessions_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true
+}

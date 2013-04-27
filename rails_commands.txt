@@ -1,0 +1,26 @@
+rails new . [-d postgres]
+rake db:create
+rails server
+# Test homepage in browser
+
+rails generate controller home index
+#generates app/views/home/index.html.erb
+rm public/index.html
+
+Update config/routes.rb
+# Test homepage in browser
+
+rails generate scaffold Item name:string list:references #belongs to List
+rails generate scaffold List name:string item:references user:references  #has_many items, #has_many users
+rails generate scaffold User name:string email:string list:references #has_many lists
+rails generate migration create_list_user_join_table
+
+# Update the following at their rightful places in the model files.
+# belongs_to (+ inverse_of) 
+# HATBM, JoinTable
+# has_many 
+# Refer: http://guides.rubyonrails.org/association_basics.html#updating-the-schema
+
+rake db:migrate
+# Test: http://localhost:3000/items
+
